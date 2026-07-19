@@ -54,7 +54,7 @@ content-type: application/json
 
 Interactive docs are available at `http://localhost:8000/docs`, where you can try out every endpoint directly in the browser.
 
-![Swagger UI showing GET /tasks](swagger-screenshot.png)
+![Swagger UI showing GET /tasks](swagger-screenshot.jpeg)
 
 ## Note on in-memory storage
 
